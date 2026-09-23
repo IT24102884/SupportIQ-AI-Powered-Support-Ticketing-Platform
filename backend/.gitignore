@@ -10,3 +10,4 @@ tickets.db
 *.sqlite
 .coverage
 htmlcov/
+
